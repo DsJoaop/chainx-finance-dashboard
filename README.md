@@ -1,12 +1,10 @@
 # Chainx - Dashboard Financeiro
 
-![Chainx Logo](public/logo.png)
-
 ## 📋 Sobre o Projeto
 
 O Chainx é um dashboard financeiro moderno e intuitivo desenvolvido para ajudar investidores a gerenciar seus ativos de forma eficiente. Com uma interface elegante e responsiva, o sistema oferece uma visão completa do seu portfólio de investimentos.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### 📊 Dashboard Principal
 - Visualização rápida de métricas importantes
