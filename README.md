@@ -1,6 +1,6 @@
 # Chainx - Dashboard Financeiro
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 O Chainx é um dashboard financeiro moderno e intuitivo desenvolvido para ajudar investidores a gerenciar seus ativos de forma eficiente. Com uma interface elegante e responsiva, o sistema oferece uma visão completa do seu portfólio de investimentos.
 
@@ -33,7 +33,7 @@ O Chainx é um dashboard financeiro moderno e intuitivo desenvolvido para ajudar
 - Configurações de notificações
 - Gestão de perfil
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend
 - **Next.js 14** - Framework React com App Router
@@ -48,15 +48,6 @@ O Chainx é um dashboard financeiro moderno e intuitivo desenvolvido para ajudar
 - `tailwindcss` - Framework CSS
 - `typescript` - Suporte a tipagem
 
-## 🎯 Recursos Técnicos
-
-### Arquitetura
-- Componentização modular
-- Hooks personalizados
-- Context API para estado global
-- Sistema de tema adaptativo
-- Animações suaves
-
 
 ### Acessibilidade
 - Suporte a navegação por teclado
@@ -64,7 +55,7 @@ O Chainx é um dashboard financeiro moderno e intuitivo desenvolvido para ajudar
 - Contraste adequado
 - Responsividade
 
-## 🛠️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 ```bash
@@ -87,7 +78,7 @@ npm run dev
 http://localhost:3000
 ```
 
-## 📱 Layout Responsivo
+## Layout Responsivo
 
 O dashboard é totalmente responsivo e se adapta a diferentes tamanhos de tela:
 - Desktop (1024px+)
